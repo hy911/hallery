@@ -1,4 +1,4 @@
-module github.com/bep/gallerydeluxe_starter
+module github.com/hy911/hallery
 
 go 1.19
 
